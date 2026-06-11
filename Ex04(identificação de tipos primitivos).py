@@ -1,3 +1,4 @@
+#Desafio de identificar o tipo primitivo de um valor
 valor = input("Digite algo: ")
 print (f"O tipo primitivo deste valor é {type(valor)}")
 print (f"É alfanumérico? {valor.isalnum()}")
